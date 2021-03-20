@@ -1,0 +1,30 @@
+body {
+    
+    background-color: lightseagreen;}
+
+    table {
+        width: 20%;
+        border: 1px solid #000;
+        
+     }
+th, tr{
+    text-align: center;
+    background-color: blue;
+}
+
+     th, td {
+        width: 25%;
+        text-align: center;
+        vertical-align: top;
+        border: 1px solid #000;
+        border-collapse: collapse;
+        padding: auto;
+        border-spacing: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        
+     }
+     caption {
+        padding: 0.3em;
+     }
+
+     
